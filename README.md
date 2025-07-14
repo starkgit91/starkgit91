@@ -3,7 +3,7 @@
 🎓 Final-year B.Tech student at **NIT Andhra Pradesh**  
 📚 Major: Electrical & Electronics | Minor: Artificial Intelligence
 
-Aspiring software developer with hands-on experience in building, optimizing, and deploying **scalable AI systems**. I thrive on solving challenging real-world problems using **ML**, **LLMs**, and **full-stack development**. My work spans everything from reinforcement learning and self-supervised learning to deploying complete applications in production environments.
+Aspiring software developer with hands-on experience in building, optimizing, and deploying **scalable AI systems**. I thrive on solving challenging real-world problems using **ML**, **LLMs**, and **development**. My work spans everything from reinforcement learning and self-supervised learning to deploying complete applications in production environments.
 
 ---
 
@@ -16,6 +16,8 @@ Aspiring software developer with hands-on experience in building, optimizing, an
 - 🧬 **Genetic Circuit Simulation** – Modeled dynamic biological systems using neural simulators.
 - 🔍 **AI-Powered Hiring Tool** – Built *HireFast*, a strategic candidate shortlisting app using MERN stack + AI logic.
 
+##Visit this -> 
+- [website](https://hirefast.vercel.app/)
 ---
 
 ## 💼 Experience
@@ -49,7 +51,7 @@ Aspiring software developer with hands-on experience in building, optimizing, an
 ## 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prashant-mishra-976708157/)
-- 📄 [Resume](https://drive.google.com/file/d/1IBBDi0EcNXQ4xiTMYaw3Rx1tNBXe6ZVm/view)
+- 📄 [Resume](https://drive.google.com/file/d/1einK4Aa1ekHz1ZflMOPoGphUcIHhWwqM/view)
 - 💻 [GitHub](https://github.com/starkgit91)
 - 🌐 Portfolio: *Coming Soon*
 
