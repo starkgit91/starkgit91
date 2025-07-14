@@ -16,7 +16,9 @@ Aspiring software developer with hands-on experience in building, optimizing, an
 - 🧬 **Genetic Circuit Simulation** – Modeled dynamic biological systems using neural simulators.
 - 🔍 **AI-Powered Hiring Tool** – Built *HireFast*, a strategic candidate shortlisting app using MERN stack + AI logic.
 
-##Visit this -> 
+---
+
+## Visit this -> 
 - [website](https://hirefast.vercel.app/)
 ---
 
