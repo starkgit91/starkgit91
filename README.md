@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Prashant Mishra
 
-🎓 Final-year B.Tech student at **NIT Andhra Pradesh**  
-📚 Major: Electrical & Electronics | Minor: Artificial Intelligence
+🎓 Masters student at **IIT Indore**  
+📚 Major: Electronics and Signal Processing | Minor: Artificial Intelligence
 
 Aspiring software developer with hands-on experience in building, optimizing, and deploying **scalable AI systems**. I thrive on solving challenging real-world problems using **ML**, **LLMs**, and **development**. My work spans everything from reinforcement learning and self-supervised learning to deploying complete applications in production environments.
 
@@ -19,7 +19,7 @@ Aspiring software developer with hands-on experience in building, optimizing, an
 ---
 
 ## Visit this -> 
-- [website](https://hirefast.vercel.app/)
+- [website](https://prashant-mishra-portfolio.vercel.app/)
 ---
 
 ## 💼 Experience
@@ -43,19 +43,19 @@ Aspiring software developer with hands-on experience in building, optimizing, an
 
 ## 🏆 Achievements
 
-- 💻 **1000+ problems solved** on platforms like Codeforces (`@thetwoface`)  
+- 💻 **Specialist on Codeforces with 1507 rating, 1000+ problems solved** on platforms like Codeforces (`@thetwoface`)  
 - 🥇 Participated in **Smart India Hackathons**, built and pitched AI-driven products  
 - 📊 Strong foundation in **Data Structures**, **Computer Fundamentals**, and **Competitive Programming**  
-- 🔍 Shortlisted for assessments & interviews at  **SHL**, **Amazon**, **Infosys**, and more
+- 🔍 Shortlisted for Interviews at  **SHL**, **Amazon**, **AD**, **Intel**, **AMD**, **Infosys**, and more
 
 ---
 
 ## 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prashant-mishra-976708157/)
-- 📄 [Resume](https://drive.google.com/file/d/1einK4Aa1ekHz1ZflMOPoGphUcIHhWwqM/view)
+- 📄 [Resume](https://drive.google.com/file/d/1d5vZ1W4bMveCA43r7o6Mc_aRonjsr3RV/view?usp=sharing)
 - 💻 [GitHub](https://github.com/starkgit91)
-- 🌐 Portfolio: *Coming Soon*
+- 🌐 [Portfolio: ](https://prashant-mishra-portfolio.vercel.app/)
 
 ---
 
