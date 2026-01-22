@@ -9,6 +9,8 @@ Aspiring software developer with hands-on experience in building, optimizing, an
 
 ## 🔬 Projects & Research Highlights
 
+- ⚙️ **RISC-V-Pipelined-Processor-Implementation** - Implemented a 32-bit RISC-V processor with a 5-stage pipelined datapath (IF, ID, EX, MEM, WB), implementing
+ALU, register file, control unit, CPU Hazards, and memory interface modules in Verilog.
 - ⚙️ **Automation of GridWorld using RL** – Built intelligent agents to learn optimal policies in a simulated environment (IIT Kanpur).
 - 🏷 **Long-tailed Multi-label Classification** – Enhanced representation learning using self-supervised techniques on the ODIR-5K dataset.
 - 📈 **Stock Price Prediction Agent** – Designed LSTM-based models with dashboards and a full deployment pipeline.
