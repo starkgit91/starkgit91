@@ -3,7 +3,7 @@
 🎓 Masters student at **IIT Indore**  
 📚 Major: Electronics and Signal Processing | Minor: Artificial Intelligence
 
-Aspiring software developer with hands-on experience in building, optimizing, and deploying **scalable AI systems**. I thrive on solving challenging real-world problems using **ML**, **LLMs**, and **development**. My work spans everything from reinforcement learning and self-supervised learning to deploying complete applications in production environments.
+Passionate about Digital Systems, CPU Architecture, VLSI Design and Signal Processing, building efficient and high-performance hardware systems. Skilled in AI Algorithms and ML models.
 
 ---
 
