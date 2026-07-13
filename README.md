@@ -3,7 +3,7 @@
 🎓 Masters student at **IIT Indore**  
 📚 Major: Electronics and Signal Processing | Minor: Artificial Intelligence
 
-Passionate about Digital Systems, CPU Architecture, VLSI Design and Signal Processing, building efficient and high-performance hardware systems. Skilled in AI Algorithms and ML models.
+Passionate about Digital Systems, Digital Communication, 5G-NR Network & Architecture, CPU Architecture, VLSI Design and Signal Processing, building efficient and high-performance hardware systems. Skilled in AI Algorithms and ML models.
 
 ---
 
